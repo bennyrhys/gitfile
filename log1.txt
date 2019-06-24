@@ -1,2 +1,2 @@
 this is a log 
-about new master
+about two new master
